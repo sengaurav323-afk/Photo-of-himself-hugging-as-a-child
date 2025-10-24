@@ -1,0 +1,5 @@
+{
+  "name": "Reunify",
+  "description": "An AI-powered photo editing app that allows a user to upload a childhood photo and a recent photo, and generates an image of their adult self hugging their child self.",
+  "requestFramePermissions": []
+}
